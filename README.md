@@ -5,6 +5,9 @@ This has been a WIP for a while but a Reddit post made me realize I'm not the on
 This is written in Python (circuitpython if we're being specific) running on a Circuitplayground Express (https://www.adafruit.com/product/3333). If you have written a bit of code before and want to start playing with hardware, this is a fantastic way to get started. More info on CircuitPython can be found here: https://learn.adafruit.com/adafruit-circuit-playground-express/what-is-circuitpython
 
 
+#Demo Video / Reddit Thread
+https://www.reddit.com/b3654c9a-f64d-494a-a256-63bb4adf8593
+
 If you ended up here have never written a single line of code in your life, this is (in my opinion) THE BEST way to get started. There's just something about making an LED physically light up that makes things click better than something on a screen. 
 
 If you're coming from an arduino/esp33 background, circuitpython is basically just higher level bindings for c++, at the end of the day it's C++ getting executed, so porting ends up being easy of you end up with performance/cost constraints, but it's honestly really fast.
