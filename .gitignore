@@ -4,7 +4,7 @@ __pycache__/*
 #tests
 #tests/*
 #Pyplot plots
-*.png
+#*.png
 
 #Unfinished tests and files
 *unfinished.py
