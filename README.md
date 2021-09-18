@@ -1,6 +1,6 @@
 # Voicetrainer - a CircuitPython Hardware Project
 
-The basic idea of this project is a device you could wear (ideally around your neck like a choker) that would vibrate to alert you when the pitch of your voice is beyond a desired threshold frequency. For me, this means it buzzes if it's too low. 
+The basic idea of this project is a device you could wear (ideally around your neck like a choker or pendant ) that would vibrate to alert you when the pitch of your voice is beyond a desired threshold frequency. For me, this means it buzzes if it's too low. 
 
 This has been a WIP for a while but a Reddit post made me realize I'm not the only one thinking about these kinds of things. 
 
