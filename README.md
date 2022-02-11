@@ -8,7 +8,7 @@ This is written in Python (circuitpython if we're being specific) running on a C
 
 
 # Demo Video / Reddit Thread
-https://v.redd.it/b39x1kmgpth41
+https://www.reddit.com/r/transprogrammer/comments/f66t3t/prototype_voice_training_collar_demo_github
 
 If you ended up here have never written a single line of code in your life, this is (in my opinion) THE BEST way to get started. There's just something about making an LED physically light up that makes things click better than something on a screen. 
 
