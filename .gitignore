@@ -1,0 +1,10 @@
+#Python cache
+__pycache__/*
+#Test scripts
+#tests
+#tests/*
+#Pyplot plots
+#*.png
+
+#Unfinished tests and files
+*unfinished.py
