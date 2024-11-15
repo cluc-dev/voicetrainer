@@ -10,7 +10,7 @@ This is written in Python (circuitpython if we're being specific) running on a C
 # Demo Video / Reddit Thread
 https://www.reddit.com/r/transprogrammer/comments/f66t3t/prototype_voice_training_collar_demo_github
 
-If you ended up here have never written a single line of code in your life, this is (in my opinion) THE BEST way to get started. There's just something about making an LED physically light up that makes things click better than something on a screen. 
+If you ended up here and have never written a single line of code in your life, this is (in my opinion) THE BEST way to get started. There's just something about making an LED physically light up that makes things click better than something on a screen. 
 
 If you're coming from an arduino/esp33 background, circuitpython is basically just higher level bindings for c++, at the end of the day it's C++ getting executed, so porting ends up being easy of you end up with performance/cost constraints, but it's honestly really fast.
 
